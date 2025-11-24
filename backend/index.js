@@ -16,8 +16,8 @@ const PORT = process.env.PORT || 5000;
 const app = express();
 
 const allowedOrigins = [
-  "http://localhost:5173", 
   "https://jobportal-app108-production.onrender.com", 
+  "http://localhost:5173", 
 ];
 
 const corsOptions = {
