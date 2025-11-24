@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 5000;
 const app = express();
 
 app.use(cors({
-    origin: "https://jobportal-app108production.onrender.com",  // your React deployed URL
+    origin:"https://jobportal-app108production.onrender.com",  // your React deployed URL
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"]
