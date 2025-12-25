@@ -63,8 +63,11 @@ job-portal-app/
 
 ---
 
-## 📸 UI Screenshots
+## 📸 UI Screenshots and Live Link
 
 ! [Home Page]-https://jobportal-app108production.onrender.com
 ![Signup Page]- https://jobportal-app108production.onrender.com/signup
 ![jobs]-https://jobportal-app108production.onrender.com/jobs
+
+C:\Users\91729\OneDrive\Pictures\Screenshots
+
